@@ -1,14 +1,14 @@
 {
   "name": "dapp2",
   "version": "1.2.0",
-  "description": "",
+  "description": "Paranox 2.0 Hackathon Prototype",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "Hackathon Gang",
+  "author": "Chain of Votes",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
