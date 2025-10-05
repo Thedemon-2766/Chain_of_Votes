@@ -17,6 +17,10 @@
     color: #1e1e1e;
 }
 body {
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #0a0f1c;
@@ -29,13 +33,13 @@ body {
 
 .container {
     text-align: center;
-    background-color: #111827;
+    background-color: rgba(17, 24, 39, 0.5);
     padding: 40px;
     border-radius: 12px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
     width: 90%;
     max-width: 600px;
-}
+    border: 2px solid rgba(125, 249, 255, 0.5);
 
 h1 {
     margin-bottom: 20px;
